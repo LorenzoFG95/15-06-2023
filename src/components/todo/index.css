@@ -1,0 +1,12 @@
+.Todo__list {
+display: flex;
+flex-direction: column;
+gap: 5px;
+padding-left: 0;
+}
+
+.Todo {
+    background-color: black;
+    padding: 8px;
+    border-radius: 20px;
+}
